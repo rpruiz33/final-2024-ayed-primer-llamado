@@ -1,0 +1,121 @@
+# depslib dependency file v1.0
+1707571709 source:c:\temp\delete\prog\final_prog_feb2024\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"negocio.h"
+	"cliente.h"
+
+1707571498 source:c:\temp\delete\prog\final_prog_feb2024\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+
+1707571775 c:\temp\delete\prog\final_prog_feb2024\cliente.h
+
+1707571498 source:c:\temp\delete\prog\final_prog_feb2024\negocio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"negocio.h"
+
+1707571775 c:\temp\delete\prog\final_prog_feb2024\negocio.h
+
+1651638556 source:c:\temp\delete\prog\final_prog_feb2024\lista.c
+	"lista.h"
+	<stdlib.h>
+	<string.h>
+
+1707571556 c:\temp\delete\prog\final_prog_feb2024\lista.h
+
+1709132079 source:c:\users\beto\desktop\final_ayed_feb2024 (1)\final_prog_feb2024\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+
+1709068836 c:\users\beto\desktop\final_ayed_feb2024 (1)\final_prog_feb2024\cliente.h
+
+1709211349 source:c:\users\beto\desktop\final_ayed_feb2024 (1)\final_prog_feb2024\lista.c
+	"lista.h"
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+	"negocio.h"
+
+1709136662 c:\users\beto\desktop\final_ayed_feb2024 (1)\final_prog_feb2024\lista.h
+
+1709210829 source:c:\users\beto\desktop\final_ayed_feb2024 (1)\final_prog_feb2024\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"negocio.h"
+	"cliente.h"
+	"lista.h"
+
+1709150047 c:\users\beto\desktop\final_ayed_feb2024 (1)\final_prog_feb2024\negocio.h
+	"lista.h"
+
+1709211290 source:c:\users\beto\desktop\final_ayed_feb2024 (1)\final_prog_feb2024\negocio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"negocio.h"
+	"cliente.h"
+	"lista.h"
+
+1709085786 c:\users\beto\desktop\final_ayed_feb2024 (1)\final_prog_feb2024\negocio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"negocio.h"
+	"cliente.h"
+	"lista.h"
+
+1709132080 source:c:\users\casar\desktop\final_ayed_feb2024 (1)\final_prog_feb2024\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+
+1709068838 c:\users\casar\desktop\final_ayed_feb2024 (1)\final_prog_feb2024\cliente.h
+
+1709658945 source:c:\users\casar\desktop\final_ayed_feb2024 (1)\final_prog_feb2024\lista.c
+	"lista.h"
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+	"negocio.h"
+
+1709663377 c:\users\casar\desktop\final_ayed_feb2024 (1)\final_prog_feb2024\lista.h
+
+1709658507 c:\users\casar\desktop\final_ayed_feb2024 (1)\final_prog_feb2024\negocio.h
+	"lista.h"
+
+1709663549 source:c:\users\casar\desktop\final_ayed_feb2024 (1)\final_prog_feb2024\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"negocio.h"
+	"cola.h"
+	"cliente.h"
+	"lista.h"
+
+1709662555 source:c:\users\casar\desktop\final_ayed_feb2024 (1)\final_prog_feb2024\negocio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"negocio.h"
+	"cliente.h"
+	"lista.h"
+
+1709662376 source:c:\users\casar\desktop\final_ayed_feb2024 (1)\final_prog_feb2024\cola.c
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+	"negocio.h"
+	"cola.h"
+
+1709663727 c:\users\casar\desktop\final_ayed_feb2024 (1)\final_prog_feb2024\cola.h
+
